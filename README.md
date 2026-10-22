@@ -8,9 +8,8 @@ megaevoluciones, formas regionales, misiones secundarias y varios modos de dific
 
 La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 
-> **Versión 0.1 (beta).** Primera versión pública. El juego se puede jugar en castellano, pero es una beta: puede
-> quedar algún texto en inglés, alguna errata o algún texto que se sale del cuadro. Cualquier aviso se agradece
-> mucho.
+> **Versión 0.2 (beta).** Segunda versión pública, con un repaso completo de toda la ROM. Sigue siendo una beta:
+> puede quedar alguna errata o algún texto que se sale del cuadro. Cualquier aviso se agradece mucho.
 
 > Este repositorio solo contiene el parche de la traducción.
 > **No incluye ninguna ROM.** Necesitas tu propia copia de Pokémon FireRed (USA).
@@ -24,9 +23,9 @@ La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 2. Aplícale el **parche oficial de Pokémon Unbound 2.1.1.1** (el `.ups` que distribuye su autor). Obtendrás la ROM
    en inglés del hack:
    - CRC32: `4B3D4957`
-3. Aplica a esa ROM el parche [`Unbound_ES_v0.1.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest)
+3. Aplica a esa ROM el parche [`Unbound_ES_v0.2.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest)
    con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-4. El resultado es una ROM de 32 MB con **CRC32 `353856EB`**. Juega con cualquier emulador de GBA (mGBA
+4. El resultado es una ROM de 32 MB con **CRC32 `738AF773`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
 El parche de la traducción se aplica **sobre Pokémon Unbound en inglés**, no directamente sobre Rojo Fuego.
@@ -45,7 +44,12 @@ El parche de la traducción se aplica **sobre Pokémon Unbound en inglés**, no 
 - **Protagonista chico o chica**: los diálogos concuerdan en género con el personaje elegido.
 - Mensajes de subida y bajada de estadísticas como en los juegos en español ("¡El Ataque de X subió mucho!").
 
-El **Chat Fácil** (frases predefinidas) se ha dejado en inglés a propósito en esta versión.
+- **Combate**: los Pokémon rivales y salvajes se distinguen como en los juegos en español ("¡Pidgey salvaje usó
+  Placaje!") y las clases de entrenador tienen forma masculina y femenina (Experto/Experta, Científico/Científica…).
+- **Pantalla de título y rótulos dibujados** en castellano ("PULSA START", "SELECT Mover", "START Orden").
+- **Chat Fácil** con las palabras oficiales de Pokémon Rojo Fuego.
+
+Los **créditos finales** se dejan en inglés.
 
 ### Errores
 Si encuentras algo en inglés, un texto que se sale del cuadro o una errata, abre una *issue* con una captura y
@@ -87,8 +91,8 @@ forms, side quests and several difficulty modes.
 
 The translation is based on **version 2.1.1.1** of the hack.
 
-> **Version 0.1 (beta).** First public release. The game can be played in Spanish, but it is a beta: there may be
-> some leftover English, typos or overflowing text. Any report is very welcome.
+> **Version 0.2 (beta).** Second public release, after a full review of the whole ROM. It is still a beta: there
+> may be some typos or overflowing text. Any report is very welcome.
 
 > This repository only contains the translation patch.
 > **It does not include any ROM.** You need your own copy of Pokémon FireRed (USA).
@@ -99,9 +103,9 @@ The translation is based on **version 2.1.1.1** of the hack.
    - CRC32: `DD88761C`
 2. Apply the **official Pokémon Unbound 2.1.1.1 patch** (the `.ups` released by its author) to get the English hack:
    - CRC32: `4B3D4957`
-3. Apply [`Unbound_ES_v0.1.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) to that ROM
+3. Apply [`Unbound_ES_v0.2.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) to that ROM
    with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-4. The result is a 32 MB ROM with **CRC32 `353856EB`**. Play it on any GBA emulator (mGBA recommended).
+4. The result is a 32 MB ROM with **CRC32 `738AF773`**. Play it on any GBA emulator (mGBA recommended).
 
 The translation patch applies **on top of English Pokémon Unbound**, not directly to FireRed.
 
@@ -116,7 +120,12 @@ The translation patch applies **on top of English Pokémon Unbound**, not direct
 - **Boy or girl protagonist**: the dialogue agrees in gender with the chosen character.
 - Stat change messages worded like in the Spanish games.
 
-Easy Chat phrases are intentionally left in English in this version.
+- **Battles**: opposing and wild Pokémon are told apart like in the Spanish games, and Trainer classes have male
+  and female forms.
+- **Title screen and drawn labels** in Spanish.
+- **Easy Chat** uses the official Spanish FireRed words.
+
+The ending credits are left in English.
 
 If you find something still in English, text overflowing its box or a typo, please open an *issue* with a screenshot
 and where it happens in the game.
