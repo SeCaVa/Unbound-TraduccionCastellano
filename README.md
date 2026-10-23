@@ -8,9 +8,9 @@ megaevoluciones, formas regionales, misiones secundarias y varios modos de dific
 
 La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 
-> **Versión 0.6 (beta).** Pulido de pantallas: «NO SE VENDE» y «PRESENTA» del arranque redibujados con la
-> estética original, iconos de estado en castellano (ENV, PAR, DOR, CON, QUE, DEB), «¿Mote de Gible?» en el teclado,
-> recuadro del nombre de los personajes centrado, «:» bien alineados y frases de combate sin el «’s» inglés.
+> **Versión 0.7 (beta).** Arregla el cuelgue al recibir las Poké Balls del Prof. Log tras el combate con Ace.
+> Además: nombres de movimiento abreviados sin punto final («Golpe Metal», «G. Fantasma»), el mensaje de potencial
+> y amistad traducido, unas 60 frases reajustadas para que no se corten y «Borrius Oeste/Este» en todo el juego.
 > Sigue siendo una beta: puede quedar alguna errata o algún texto que se sale del cuadro. Cualquier aviso se agradece mucho.
 
 > Este repositorio solo contiene el parche de la traducción.
@@ -22,7 +22,7 @@ La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 
 1. Consigue una ROM de **Pokémon - FireRed Version (USA)**, revisión 1.0.
    - CRC32: `DD88761C`
-2. Aplica directamente a esa ROM el parche [`Unbound_ES_v0.6.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest)
+2. Aplica directamente a esa ROM el parche [`Unbound_ES_v0.7.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest)
    con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
 3. El resultado es una ROM de 32 MB con **CRC32 `BE23DC44`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
@@ -90,9 +90,10 @@ forms, side quests and several difficulty modes.
 
 The translation is based on **version 2.1.1.1** of the hack.
 
-> **Version 0.6 (beta).** Screen polish: boot «NOT FOR SALE» and «PRESENTS» redrawn in Spanish with the original
-> look, Spanish status icons, translated nickname screen title, centred speaker name box, aligned colons and battle
-> messages without the English «’s». It is still a beta: there may be some typos or overflowing text. Any report is very welcome.
+> **Version 0.7 (beta).** Fixes the crash after receiving the Poké Balls from Prof. Log after the battle with Ace.
+> Also: abbreviated move names without a trailing dot, translated potential/friendship message, about 60 lines
+> rewrapped so they are not cut, and «Borrius Oeste/Este» everywhere.
+> It is still a beta: there may be some typos or overflowing text. Any report is very welcome.
 
 > This repository only contains the translation patch.
 > **It does not include any ROM.** You need your own copy of Pokémon FireRed (USA).
@@ -101,7 +102,7 @@ The translation is based on **version 2.1.1.1** of the hack.
 
 1. Get a ROM of **Pokémon - FireRed Version (USA)**, revision 1.0.
    - CRC32: `DD88761C`
-2. Apply [`Unbound_ES_v0.6.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) directly to that ROM
+2. Apply [`Unbound_ES_v0.7.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) directly to that ROM
    with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
 3. The result is a 32 MB ROM with **CRC32 `BE23DC44`**. Play it on any GBA emulator (mGBA recommended).
 
