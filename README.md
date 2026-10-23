@@ -24,7 +24,7 @@ La traducción está hecha sobre la **versión 2.1.1.1** del hack.
    - CRC32: `DD88761C`
 2. Aplica directamente a esa ROM el parche [`Unbound_ES_v0.7.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest)
    con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `BE23DC44`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `20CBED7E`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
 Desde la v0.3 el parche se aplica **directamente sobre FireRed (USA)**: ya no hace falta el parche inglés de Pokémon Unbound 2.1.1.1 (lleva el hack incluido).
@@ -104,7 +104,7 @@ The translation is based on **version 2.1.1.1** of the hack.
    - CRC32: `DD88761C`
 2. Apply [`Unbound_ES_v0.7.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) directly to that ROM
    with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `BE23DC44`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `20CBED7E`**. Play it on any GBA emulator (mGBA recommended).
 
 Since v0.3 the patch applies **directly to FireRed (USA)**: the English Pokémon Unbound 2.1.1.1 patch is no longer needed (the hack is included).
 
