@@ -8,7 +8,8 @@ megaevoluciones, formas regionales, misiones secundarias y varios modos de dific
 
 La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 
-> **Versión 0.3 (beta).** Mismo juego que la 0.2; ahora el parche va directo sobre FireRed (USA). Segunda versión pública, con un repaso completo de toda la ROM. Sigue siendo una beta:
+> **Versión 0.4 (beta).** Arregla la introducción y las páginas de texto fijo (cartas, inscripciones) que se cortaban,
+> acorta los rótulos de menú que se salían del recuadro y traduce el título dibujado de la ficha de entrenador. Sigue siendo una beta:
 > puede quedar alguna errata o algún texto que se sale del cuadro. Cualquier aviso se agradece mucho.
 
 > Este repositorio solo contiene el parche de la traducción.
@@ -20,9 +21,9 @@ La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 
 1. Consigue una ROM de **Pokémon - FireRed Version (USA)**, revisión 1.0.
    - CRC32: `DD88761C`
-2. Aplica directamente a esa ROM el parche [`Unbound_ES_v0.3.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest)
+2. Aplica directamente a esa ROM el parche [`Unbound_ES_v0.4.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest)
    con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `738AF773`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `AFFD00A8`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
 Desde la v0.3 el parche se aplica **directamente sobre FireRed (USA)**: ya no hace falta el parche inglés de Pokémon Unbound 2.1.1.1 (lleva el hack incluido).
@@ -43,7 +44,7 @@ Desde la v0.3 el parche se aplica **directamente sobre FireRed (USA)**: ya no ha
 
 - **Combate**: los Pokémon rivales y salvajes se distinguen como en los juegos en español ("¡Pidgey salvaje usó
   Placaje!") y las clases de entrenador tienen forma masculina y femenina (Experto/Experta, Científico/Científica…).
-- **Pantalla de título y rótulos dibujados** en castellano ("PULSA START", "SELECT Mover", "START Orden").
+- **Pantalla de título y rótulos dibujados** en castellano ("PULSA START", "SELECT Mover", "START Orden", "FICHA ENTRENADOR", "MEDALLAS").
 - **Chat Fácil** con las palabras oficiales de Pokémon Rojo Fuego.
 
 Los **créditos finales** se dejan en inglés.
@@ -88,7 +89,8 @@ forms, side quests and several difficulty modes.
 
 The translation is based on **version 2.1.1.1** of the hack.
 
-> **Version 0.3 (beta).** Same game as 0.2; the patch now applies directly to FireRed (USA). Second public release, after a full review of the whole ROM. It is still a beta: there
+> **Version 0.4 (beta).** Fixes the intro and fixed text pages (letters, inscriptions) that were cut off, shortens
+> menu labels that overflowed their box and translates the drawn Trainer Card title. It is still a beta: there
 > may be some typos or overflowing text. Any report is very welcome.
 
 > This repository only contains the translation patch.
@@ -98,9 +100,9 @@ The translation is based on **version 2.1.1.1** of the hack.
 
 1. Get a ROM of **Pokémon - FireRed Version (USA)**, revision 1.0.
    - CRC32: `DD88761C`
-2. Apply [`Unbound_ES_v0.3.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) directly to that ROM
+2. Apply [`Unbound_ES_v0.4.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) directly to that ROM
    with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `738AF773`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `AFFD00A8`**. Play it on any GBA emulator (mGBA recommended).
 
 Since v0.3 the patch applies **directly to FireRed (USA)**: the English Pokémon Unbound 2.1.1.1 patch is no longer needed (the hack is included).
 
