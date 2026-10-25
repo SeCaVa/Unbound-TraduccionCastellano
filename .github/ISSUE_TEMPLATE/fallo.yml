@@ -87,6 +87,11 @@ body:
     validations:
       required: true
   - type: textarea
+    id: correccion
+    attributes:
+      label: Corrección sugerida (opcional)
+      description: Si sabes cómo debería decir el texto, escríbelo aquí.
+  - type: textarea
     id: pasos
     attributes:
       label: ¿Cómo repetirlo?
