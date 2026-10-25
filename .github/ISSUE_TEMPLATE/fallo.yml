@@ -1,0 +1,117 @@
+name: Avisar de un fallo
+description: Cuelgues, textos en inglés, textos cortados, erratas o gráficos mal traducidos de la traducción de Pokémon Unbound.
+title: "[Fallo] "
+labels: ["fallo"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ¡Gracias por avisar! Con estos datos puedo reproducir el fallo sin tener que preguntarte nada.
+        Solo informa aquí de fallos **de la traducción**. Si el fallo también sale en el juego en inglés, es del hack original.
+        *English speakers: you can fill this form in English.*
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de fallo
+      options:
+        - "El juego se cuelga, se congela o sale pantalla negra"
+        - "Texto en inglés sin traducir"
+        - "Texto que se sale del cuadro o se corta"
+        - "Errata o frase rara"
+        - "Gráfico o menú sin traducir o mal"
+        - "Otro"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Versión de la traducción
+      description: Sale en el nombre del parche o de la release que descargaste.
+      placeholder: "v0.9"
+    validations:
+      required: true
+  - type: dropdown
+    id: parcheo
+    attributes:
+      label: ¿Cómo aplicaste el parche?
+      description: "El parche va sobre Pokémon - FireRed Version (USA) 1.0 (CRC32 DD88761C). La ROM resultante de la v0.9 tiene CRC32 4194AB6C."
+      options:
+        - "Parcheador web de SeCaVa (secava.github.io/secava-parcheador)"
+        - "Rom Patcher JS"
+        - "Floating IPS (Flips)"
+        - "Otro programa"
+        - "No lo sé / me pasaron la ROM ya parcheada"
+    validations:
+      required: true
+  - type: input
+    id: crc
+    attributes:
+      label: CRC32 de tu ROM parcheada (si lo sabes)
+      description: El parcheador web y Rom Patcher JS lo enseñan. Ayuda a saber si la ROM está bien.
+      placeholder: "4194AB6C"
+  - type: dropdown
+    id: emulador
+    attributes:
+      label: Emulador o consola
+      options:
+        - "mGBA (PC)"
+        - "VisualBoyAdvance-M (PC)"
+        - "My Boy! (Android)"
+        - "Pizza Boy GBA (Android)"
+        - "RetroArch, núcleo mGBA"
+        - "RetroArch, otro núcleo (gpSP, VBA Next…)"
+        - "Delta (iPhone/iPad)"
+        - "NanoBoyAdvance (PC)"
+        - "Consola real con flashcart"
+        - "Otro (dilo abajo)"
+    validations:
+      required: true
+  - type: input
+    id: emulador_version
+    attributes:
+      label: Versión del emulador (y núcleo, si usas RetroArch)
+      placeholder: "mGBA 0.10.5"
+  - type: input
+    id: zona
+    attributes:
+      label: ¿Dónde pasa?
+      description: Ciudad, ruta, edificio o menú. Si es un diálogo, quién habla.
+      placeholder: "Ruta 3, al hablar con el entrenador de la hierba alta"
+    validations:
+      required: true
+  - type: textarea
+    id: que_paso
+    attributes:
+      label: ¿Qué pasó?
+      description: Qué esperabas y qué salió. Si es un texto, cópialo tal cual.
+    validations:
+      required: true
+  - type: textarea
+    id: pasos
+    attributes:
+      label: ¿Cómo repetirlo?
+      description: Qué hiciste justo antes. ¿Pasa siempre o solo a veces?
+      placeholder: |
+        1. Entro en el Centro Pokémon
+        2. Hablo con la enfermera
+        3. Se queda la pantalla congelada
+  - type: textarea
+    id: captura
+    attributes:
+      label: Captura o vídeo
+      description: Arrastra aquí la imagen. Para textos es casi imprescindible.
+  - type: textarea
+    id: partida
+    attributes:
+      label: Partida guardada (opcional)
+      description: |
+        Comprime el archivo .sav en un .zip y arrástralo aquí (GitHub no acepta .sav sueltos).
+        Mejor la partida guardada normal, no un savestate. Si puedes, guarda justo antes del fallo.
+  - type: checkboxes
+    id: extras
+    attributes:
+      label: Otros datos
+      options:
+        - label: Uso trucos, randomizer o algún parche más aparte de la traducción.
+        - label: La partida viene de una versión anterior de la traducción.
+        - label: El fallo también sale en el juego en inglés.

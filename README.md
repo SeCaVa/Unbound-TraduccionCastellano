@@ -50,8 +50,8 @@ Desde la v0.3 el parche se aplica **directamente sobre FireRed (USA)**: ya no ha
 Los **créditos finales** se dejan en inglés.
 
 ### Errores
-Si encuentras algo en inglés, un texto que se sale del cuadro o una errata, abre una *issue* con una captura y
-el lugar del juego.
+Si encuentras algo en inglés, un texto que se sale del cuadro o una errata, rellena el [formulario de fallos](https://github.com/SeCaVa/Unbound-TraduccionCastellano/issues/new?template=fallo.yml).
+Pide versión, emulador, zona y captura, y así puedo arreglarlo sin preguntarte nada más.
 
 ---
 
@@ -124,8 +124,8 @@ Since v0.3 the patch applies **directly to FireRed (USA)**: the English Pokémon
 
 The ending credits are left in English.
 
-If you find something still in English, text overflowing its box or a typo, please open an *issue* with a screenshot
-and where it happens in the game.
+If you find something still in English, text overflowing its box or a typo, please fill in the [bug report form](https://github.com/SeCaVa/Unbound-TraduccionCastellano/issues/new?template=fallo.yml).
+It asks for the version, emulator, location and a screenshot.
 
 ### Credits
 

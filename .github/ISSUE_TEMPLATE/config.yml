@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Parcheador web
+    url: https://secava.github.io/secava-parcheador/
+    about: Aplica el parche desde el navegador y comprueba que la ROM sale bien.
