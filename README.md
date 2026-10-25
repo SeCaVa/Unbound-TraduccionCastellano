@@ -8,8 +8,8 @@ megaevoluciones, formas regionales, misiones secundarias y varios modos de dific
 
 La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 
-> **Versión 0.8 (beta).** Traducidos unos 80 textos de entrenador que seguían en inglés, exclamaciones con su «¡»,
-> nombres de gimnasio que ya no se salen del recuadro y varias frases reajustadas. La v0.7 ya arreglaba el cuelgue de las Poké Balls.
+> **Versión 0.9 (beta).** Nombres de habilidad enteros en la ficha, registro de misiones sin textos que se salen
+> ni flecha roja, temas de música y descripciones de Ajustes que caben, y descripciones revisadas con el hack.
 > Sigue siendo una beta: puede quedar alguna errata o algún texto que se sale del cuadro. Cualquier aviso se agradece mucho.
 
 > Este repositorio solo contiene el parche de la traducción.
@@ -21,9 +21,9 @@ La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 
 1. Consigue una ROM de **Pokémon - FireRed Version (USA)**, revisión 1.0.
    - CRC32: `DD88761C`
-2. Aplica directamente a esa ROM el parche [`Unbound_ES_v0.8.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest)
+2. Aplica directamente a esa ROM el parche [`Unbound_ES_v0.9.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest)
    con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `14612C3A`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `4194AB6C`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
 Desde la v0.3 el parche se aplica **directamente sobre FireRed (USA)**: ya no hace falta el parche inglés de Pokémon Unbound 2.1.1.1 (lleva el hack incluido).
@@ -89,8 +89,8 @@ forms, side quests and several difficulty modes.
 
 The translation is based on **version 2.1.1.1** of the hack.
 
-> **Version 0.8 (beta).** About 80 trainer lines that were still in English are now translated, plus fixed exclamation
-> marks, gym names that no longer overflow and several rewrapped lines. v0.7 already fixed the Poké Ball crash.
+> **Version 0.9 (beta).** Full ability names on the summary screen, Mission Log texts that fit without the red arrow,
+> music themes and Settings descriptions that fit, and move descriptions checked against the hack.
 > It is still a beta: there may be some typos or overflowing text. Any report is very welcome.
 
 > This repository only contains the translation patch.
@@ -100,9 +100,9 @@ The translation is based on **version 2.1.1.1** of the hack.
 
 1. Get a ROM of **Pokémon - FireRed Version (USA)**, revision 1.0.
    - CRC32: `DD88761C`
-2. Apply [`Unbound_ES_v0.8.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) directly to that ROM
+2. Apply [`Unbound_ES_v0.9.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) directly to that ROM
    with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `14612C3A`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `4194AB6C`**. Play it on any GBA emulator (mGBA recommended).
 
 Since v0.3 the patch applies **directly to FireRed (USA)**: the English Pokémon Unbound 2.1.1.1 patch is no longer needed (the hack is included).
 
