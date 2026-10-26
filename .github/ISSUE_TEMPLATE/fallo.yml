@@ -27,14 +27,14 @@ body:
     attributes:
       label: Versión de la traducción
       description: Sale en el nombre del parche o de la release que descargaste.
-      placeholder: "v0.91"
+      placeholder: "v0.93"
     validations:
       required: true
   - type: dropdown
     id: parcheo
     attributes:
       label: ¿Cómo aplicaste el parche?
-      description: "El parche va sobre Pokémon - FireRed Version (USA) 1.0 (CRC32 DD88761C). La ROM resultante de la v0.91 tiene CRC32 B0119328."
+      description: "El parche va sobre Pokémon - FireRed Version (USA) 1.0 (CRC32 DD88761C). La ROM resultante de la v0.93 tiene CRC32 93079FBE."
       options:
         - "Parcheador web de SeCaVa (secava.github.io/secava-parcheador)"
         - "Rom Patcher JS"
@@ -44,11 +44,17 @@ body:
     validations:
       required: true
   - type: input
+    id: crc_base
+    attributes:
+      label: CRC32 de tu ROM antes de parchear (si lo sabes)
+      description: "Debe ser DD88761C: FireRed USA 1.0. Si al encender sale «Presents» bajo el logo de GAME FREAK, tienes la 1.1 y el parche no funciona bien. El parcheador web y Rom Patcher JS lo enseñan al cargar la ROM."
+      placeholder: "DD88761C"
+  - type: input
     id: crc
     attributes:
       label: CRC32 de tu ROM parcheada (si lo sabes)
       description: El parcheador web y Rom Patcher JS lo enseñan. Ayuda a saber si la ROM está bien.
-      placeholder: "B0119328"
+      placeholder: "93079FBE"
   - type: dropdown
     id: emulador
     attributes:
