@@ -8,7 +8,8 @@ megaevoluciones, formas regionales, misiones secundarias y varios modos de dific
 
 La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 
-> **Versión 0.94 (beta).** Reloj del menú en 24 horas y fecha en formato día/mes/año, unos 50 diálogos que
+> **Versión 0.95 (beta).** Gritos y exclamaciones con su «¡» («¡Cac!», «¡Hoop!», «¡Moo!»…).
+> Desde la 0.94: reloj del menú en 24 horas y fecha en formato día/mes/año, unos 50 diálogos que
 > seguían en inglés ya traducidos, descripciones de movimientos Dinamax que ya no se cortan, nombres de zona que
 > caben en el mapa, «Agua» en el DexNav y «completar» la Pokédex. Desde la 0.93: registro de misiones en castellano,
 > «Alcantarillas» en el mapa y «Tema salvaje» completo. Desde la 0.92: rótulos de la ficha centrados,
@@ -28,9 +29,9 @@ La traducción está hecha sobre la **versión 2.1.1.1** del hack.
    - CRC32: `DD88761C`
    - La revisión 1.1 no sirve: si al encender sale «Presents» bajo el logo de GAME FREAK, es la 1.1 y el juego
      se quedará en blanco o se colgará. Rom Patcher JS enseña el CRC32 de tu ROM antes de parchear.
-2. Aplica directamente a esa ROM el parche [`Unbound_ES_v0.94.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest)
+2. Aplica directamente a esa ROM el parche [`Unbound_ES_v0.95.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest)
    con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `3280F2ED`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `4EDC2996`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
 Desde la v0.3 el parche se aplica **directamente sobre FireRed (USA)**: ya no hace falta el parche inglés de Pokémon Unbound 2.1.1.1 (lleva el hack incluido).
@@ -96,7 +97,8 @@ forms, side quests and several difficulty modes.
 
 The translation is based on **version 2.1.1.1** of the hack.
 
-> **Version 0.94 (beta).** 24-hour clock and day/month/year dates, about 50 dialogues that were still in English now
+> **Version 0.95 (beta).** Shouts and exclamations with their opening «¡».
+> Since 0.94: 24-hour clock and day/month/year dates, about 50 dialogues that were still in English now
 > translated, Dynamax move descriptions no longer cut off, area names that fit on the map, «Agua» in the DexNav and
 > «completar» for the Pokédex. Since 0.93: quest log in Spanish, «Alcantarillas» on the map and the full «Tema
 > salvaje» description. Since 0.92: summary screen labels centred, «Movimientos» and
@@ -115,9 +117,9 @@ The translation is based on **version 2.1.1.1** of the hack.
    - CRC32: `DD88761C`
    - Revision 1.1 won't work: if "Presents" shows under the GAME FREAK logo when you boot it, it's 1.1 and the
      game will show a white screen or crash. Rom Patcher JS shows your ROM's CRC32 before patching.
-2. Apply [`Unbound_ES_v0.94.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) directly to that ROM
+2. Apply [`Unbound_ES_v0.95.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) directly to that ROM
    with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `3280F2ED`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `4EDC2996`**. Play it on any GBA emulator (mGBA recommended).
 
 Since v0.3 the patch applies **directly to FireRed (USA)**: the English Pokémon Unbound 2.1.1.1 patch is no longer needed (the hack is included).
 
