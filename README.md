@@ -8,7 +8,8 @@ megaevoluciones, formas regionales, misiones secundarias y varios modos de dific
 
 La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 
-> **Versión 0.99 (beta).** Arreglada la Cueva del Valle 1F (teselas rotas alrededor de la sala), «N.º» como en los juegos oficiales y la ventana de datos del movimiento (tecla L) sin textos cortados.
+> **Versión 0.991 (beta).** Incluye **ZA Megas**, el parche de fans de Alphapenguin42 con las megaevoluciones de Leyendas Pokémon: Z-A, ya traducido: 41 megapiedras con su nombre oficial, sus habilidades nuevas y los diálogos de quienes las dan. Además: símbolo «N°», «Nv. recomendado» traducido, descripción completa de la Baya Rimoya y de otras 22 bayas, y descripciones de misiones que ya no pierden texto.
+> Desde la 0.99: Arreglada la Cueva del Valle 1F (teselas rotas alrededor de la sala) y la ventana de datos del movimiento (tecla L) sin textos cortados.
 > Desde la 0.97: Arreglado el botón «(B) Atrás».
 > Desde la 0.96: Arreglado un cuelgue en combates salvajes (mensaje del arcoíris), los diálogos de Ace y
 > Log sobre la Pokédex vuelven a verse bien, 14 entradas de la Pokédex con su texto oficial y «(B) Atrás».
@@ -32,9 +33,9 @@ La traducción está hecha sobre la **versión 2.1.1.1** del hack.
    - CRC32: `DD88761C`
    - La revisión 1.1 no sirve: si al encender sale «Presents» bajo el logo de GAME FREAK, es la 1.1 y el juego
      se quedará en blanco o se colgará. Rom Patcher JS enseña el CRC32 de tu ROM antes de parchear.
-2. Aplica directamente a esa ROM el parche [`Unbound_ES_v0.99.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest)
+2. Aplica directamente a esa ROM el parche [`Unbound_ES_v0.991.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest)
    con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `449F0E5C`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `0D9435A8`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
 Desde la v0.3 el parche se aplica **directamente sobre FireRed (USA)**: ya no hace falta el parche inglés de Pokémon Unbound 2.1.1.1 (lleva el hack incluido).
@@ -72,6 +73,11 @@ Pide versión, emulador, zona y captura, y así puedo arreglarlo sin preguntarte
 **Pokémon Unbound** es obra de **Skeli** y de quienes le ayudaron a hacerlo.
 Todo el mérito del juego es suyo. Esta traducción solo cambia el idioma.
 
+### ZA Megas
+[**ZA Megas**](https://codeberg.org/Alphapenguin42/unbound-za-megas) es un parche de fans de **Alphapenguin42**
+que añade a Pokémon Unbound las megaevoluciones de Leyendas Pokémon: Z-A. Todo el mérito de ese añadido es suyo;
+aquí solo va integrado y traducido.
+
 El hack usa **Complete FireRed Upgrade (CFRU)** y **Dynamic Pokémon Expansion (DPE)**, de Skeli789 y sus
 colaboradores.
 
@@ -100,7 +106,8 @@ forms, side quests and several difficulty modes.
 
 The translation is based on **version 2.1.1.1** of the hack.
 
-> **Version 0.99 (beta).** Valley Cave 1F fixed (broken tiles around the room), official «N.º» number sign and the move info window (L button) without cut-off text.
+> **Version 0.991 (beta).** Includes **ZA Megas**, Alphapenguin42's fan patch with the Mega Evolutions from Pokémon Legends: Z-A, now translated: 41 Mega Stones with their official names, their new Abilities and the dialogue of the people who give them. Also: «N°» number sign, «Nv. recomendado» translated, full descriptions for 23 Berries, and quest descriptions that no longer lose text.
+> Since 0.99: Valley Cave 1F fixed (broken tiles around the room) and the move info window (L button) without cut-off text.
 > Since 0.97: Fixed the «(B) Atrás» button.
 > Since 0.96: Fixed a hang in wild battles (rainbow message), Ace and Log's Pokédex dialogues display
 > correctly again, 14 Pokédex entries with their official text and «(B) Atrás».
@@ -123,9 +130,9 @@ The translation is based on **version 2.1.1.1** of the hack.
    - CRC32: `DD88761C`
    - Revision 1.1 won't work: if "Presents" shows under the GAME FREAK logo when you boot it, it's 1.1 and the
      game will show a white screen or crash. Rom Patcher JS shows your ROM's CRC32 before patching.
-2. Apply [`Unbound_ES_v0.99.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) directly to that ROM
+2. Apply [`Unbound_ES_v0.991.bps`](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) directly to that ROM
    with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `449F0E5C`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `0D9435A8`**. Play it on any GBA emulator (mGBA recommended).
 
 Since v0.3 the patch applies **directly to FireRed (USA)**: the English Pokémon Unbound 2.1.1.1 patch is no longer needed (the hack is included).
 
@@ -154,6 +161,10 @@ It asks for the version, emulator, location and a screenshot.
 
 **Pokémon Unbound** (original hack) is the work of **Skeli** and the people who helped make it. All the credit for
 the game goes to them; this translation only changes the language.
+
+[**ZA Megas**](https://codeberg.org/Alphapenguin42/unbound-za-megas) is a fan patch by **Alphapenguin42** that adds the
+Mega Evolutions from Pokémon Legends: Z-A to Pokémon Unbound. All the credit for it goes to them; here it is only
+integrated and translated.
 
 The hack uses **Complete FireRed Upgrade (CFRU)** and **Dynamic Pokémon Expansion (DPE)**, by Skeli789 and
 contributors.
