@@ -8,7 +8,8 @@ megaevoluciones, formas regionales, misiones secundarias y varios modos de dific
 
 La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 
-> **Versión 0.993 (beta).** Dos parches: con **ZA Megas** o sin él (Unbound oficial). Descripciones de movimientos que se salían de la ficha, «Ladrón» y otros nombres de movimiento en diálogos, unos 25 textos que seguían en inglés y un fallo de sonido en una escena con ZA.
+> **Versión 0.994 (beta).** Dos parches: con **ZA Megas** o sin él (Unbound oficial). Arreglados los mensajes de subida y bajada de características en combate («subió mucho!subió!»), «N°» en la cadena del DexNav, título «Catálogo de Entrenadores», mensajes de cambio de Pokémon con el texto oficial y «seleccionado» en el Tubo MT-MO.
+> Desde la 0.993: Descripciones de movimientos que se salían de la ficha, «Ladrón» y otros nombres de movimiento en diálogos, unos 25 textos que seguían en inglés y un fallo de sonido en una escena con ZA.
 > Desde la 0.992: arreglado «Entrenador» con protagonista chico.
 > Desde la 0.991: Incluye **ZA Megas**, el parche de fans de Alphapenguin42 con las megaevoluciones de Leyendas Pokémon: Z-A, ya traducido: 41 megapiedras con su nombre oficial, sus habilidades nuevas y los diálogos de quienes las dan. Además: símbolo «N°», «Nv. recomendado» traducido, descripción completa de la Baya Rimoya y de otras 22 bayas, y descripciones de misiones que ya no pierden texto.
 > Desde la 0.99: Arreglada la Cueva del Valle 1F (teselas rotas alrededor de la sala) y la ventana de datos del movimiento (tecla L) sin textos cortados.
@@ -37,9 +38,9 @@ La traducción está hecha sobre la **versión 2.1.1.1** del hack.
      se quedará en blanco o se colgará. Rom Patcher JS enseña el CRC32 de tu ROM antes de parchear.
 2. Elige uno de los dos parches de la [última versión](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) y aplícalo directamente
    a esa ROM con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips):
-   - `Unbound_ES_v0.993.bps`: con **ZA Megas**, el parche de fans de Alphapenguin42 con las megaevoluciones de
-     Leyendas Pokémon: Z-A. ROM resultante: **CRC32 `986A27F7`**.
-   - `Unbound_ES_v0.993_sinZA.bps`: Pokémon Unbound oficial, sin ZA Megas. ROM resultante: **CRC32 `B4D87198`**.
+   - `Unbound_ES_v0.994.bps`: con **ZA Megas**, el parche de fans de Alphapenguin42 con las megaevoluciones de
+     Leyendas Pokémon: Z-A. ROM resultante: **CRC32 `7CAB3D18`**.
+   - `Unbound_ES_v0.994_sinZA.bps`: Pokémon Unbound oficial, sin ZA Megas. ROM resultante: **CRC32 `8C2A695F`**.
 
    ZA Megas no es una actualización oficial de Skeli. Si algún día sale una versión oficial nueva, una partida con
    megapiedras de ZA podría no pasar tal cual a ella. Si prefieres no arriesgarte, usa el parche sin ZA.
@@ -113,7 +114,8 @@ forms, side quests and several difficulty modes.
 
 The translation is based on **version 2.1.1.1** of the hack.
 
-> **Version 0.993 (beta).** Two patches: with **ZA Megas** or without it (official Unbound). Move descriptions overflowing the summary screen, «Ladrón» and other move names in dialogue, about 25 texts still in English and a sound bug in one scene with ZA.
+> **Version 0.994 (beta).** Two patches: with **ZA Megas** or without it (official Unbound). Fixed stat raise/drop messages in battle («subió mucho!subió!»), «N°» in the DexNav chain, «Catálogo de Entrenadores» title, Pokémon switch messages with the official text and «seleccionado» in the TM Case.
+> Since 0.993: Move descriptions overflowing the summary screen, «Ladrón» and other move names in dialogue, about 25 texts still in English and a sound bug in one scene with ZA.
 > Since 0.992: fixed «Entrenador» with a male protagonist.
 > Since 0.991: Includes **ZA Megas**, Alphapenguin42's fan patch with the Mega Evolutions from Pokémon Legends: Z-A, now translated: 41 Mega Stones with their official names, their new Abilities and the dialogue of the people who give them. Also: «N°» number sign, «Nv. recomendado» translated, full descriptions for 23 Berries, and quest descriptions that no longer lose text.
 > Since 0.99: Valley Cave 1F fixed (broken tiles around the room) and the move info window (L button) without cut-off text.
@@ -141,9 +143,9 @@ The translation is based on **version 2.1.1.1** of the hack.
      game will show a white screen or crash. Rom Patcher JS shows your ROM's CRC32 before patching.
 2. Pick one of the two patches from the [latest release](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) and apply it directly
    to that ROM with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips):
-   - `Unbound_ES_v0.993.bps`: with **ZA Megas**, Alphapenguin42's fan patch with the Mega Evolutions from Pokémon
-     Legends: Z-A. Resulting ROM: **CRC32 `986A27F7`**.
-   - `Unbound_ES_v0.993_sinZA.bps`: official Pokémon Unbound, without ZA Megas. Resulting ROM: **CRC32 `B4D87198`**.
+   - `Unbound_ES_v0.994.bps`: with **ZA Megas**, Alphapenguin42's fan patch with the Mega Evolutions from Pokémon
+     Legends: Z-A. Resulting ROM: **CRC32 `7CAB3D18`**.
+   - `Unbound_ES_v0.994_sinZA.bps`: official Pokémon Unbound, without ZA Megas. Resulting ROM: **CRC32 `8C2A695F`**.
 
    ZA Megas is not an official update by Skeli. If a new official version comes out, a save with ZA Mega Stones
    might not carry over as is. If you'd rather not risk it, use the patch without ZA.
