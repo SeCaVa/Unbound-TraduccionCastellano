@@ -8,7 +8,7 @@ megaevoluciones, formas regionales, misiones secundarias y varios modos de dific
 
 La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 
-> **Versión 0.999 (beta).** Dos parches: con **ZA Megas** o sin él (Unbound oficial). Arreglados los símbolos raros en los combates contra dos entrenadores con clases largas (Marlon), la banda «Black Emboar» pasa a ser «Emboar Negro» y retoques de nombres («Café Magnolia», «Smogon Monotipo», «Récords Dodrio», «Guarida Rocket»).
+> **Versión 0.999 (beta).** Dos parches: con **ZA Megas** o sin él (Unbound oficial). Arreglados los símbolos raros en los combates contra dos entrenadores con clases largas (Marlon), las bandas pasan a llamarse «Emboar Negro», «Ferrothorn Negro» y «(tu nombre) Negro/a», descripciones sin palabras partidas con guion y retoques de nombres («Café Magnolia», «Smogon Monotipo», «Récords Dodrio», «Guarida Rocket»).
 > Desde la 0.993: Descripciones de movimientos que se salían de la ficha, «Ladrón» y otros nombres de movimiento en diálogos, unos 25 textos que seguían en inglés y un fallo de sonido en una escena con ZA.
 > Desde la 0.992: arreglado «Entrenador» con protagonista chico.
 > Desde la 0.991: Incluye **ZA Megas**, el parche de fans de Alphapenguin42 con las megaevoluciones de Leyendas Pokémon: Z-A, ya traducido: 41 megapiedras con su nombre oficial, sus habilidades nuevas y los diálogos de quienes las dan. Además: símbolo «N°», «Nv. recomendado» traducido, descripción completa de la Baya Rimoya y de otras 22 bayas, y descripciones de misiones que ya no pierden texto.
@@ -39,8 +39,8 @@ La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 2. Elige uno de los dos parches de la [última versión](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) y aplícalo directamente
    a esa ROM con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips):
    - `Unbound_ES_v0.999.bps`: con **ZA Megas**, el parche de fans de Alphapenguin42 con las megaevoluciones de
-     Leyendas Pokémon: Z-A. ROM resultante: **CRC32 `23801291`**.
-   - `Unbound_ES_v0.999_sinZA.bps`: Pokémon Unbound oficial, sin ZA Megas. ROM resultante: **CRC32 `FAC36DFE`**.
+     Leyendas Pokémon: Z-A. ROM resultante: **CRC32 `40D5CE1B`**.
+   - `Unbound_ES_v0.999_sinZA.bps`: Pokémon Unbound oficial, sin ZA Megas. ROM resultante: **CRC32 `0147E404`**.
 
    ZA Megas no es una actualización oficial de Skeli. Si algún día sale una versión oficial nueva, una partida con
    megapiedras de ZA podría no pasar tal cual a ella. Si prefieres no arriesgarte, usa el parche sin ZA.
@@ -114,7 +114,7 @@ forms, side quests and several difficulty modes.
 
 The translation is based on **version 2.1.1.1** of the hack.
 
-> **Version 0.999 (beta).** Two patches: with **ZA Megas** or without it (official Unbound). Fixed garbage text in battles against two trainers with long trainer classes (Marlon), the «Black Emboar» gang is now «Emboar Negro», and name touch-ups («Café Magnolia», «Smogon Monotipo», «Récords Dodrio», «Guarida Rocket»).
+> **Version 0.999 (beta).** Two patches: with **ZA Megas** or without it (official Unbound). Fixed garbage text in battles against two trainers with long trainer classes (Marlon), the gangs are now «Emboar Negro», «Ferrothorn Negro» and «(your name) Negro/a», descriptions no longer split words with hyphens, and name touch-ups («Café Magnolia», «Smogon Monotipo», «Récords Dodrio», «Guarida Rocket»).
 > Since 0.993: Move descriptions overflowing the summary screen, «Ladrón» and other move names in dialogue, about 25 texts still in English and a sound bug in one scene with ZA.
 > Since 0.992: fixed «Entrenador» with a male protagonist.
 > Since 0.991: Includes **ZA Megas**, Alphapenguin42's fan patch with the Mega Evolutions from Pokémon Legends: Z-A, now translated: 41 Mega Stones with their official names, their new Abilities and the dialogue of the people who give them. Also: «N°» number sign, «Nv. recomendado» translated, full descriptions for 23 Berries, and quest descriptions that no longer lose text.
@@ -144,8 +144,8 @@ The translation is based on **version 2.1.1.1** of the hack.
 2. Pick one of the two patches from the [latest release](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) and apply it directly
    to that ROM with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips):
    - `Unbound_ES_v0.999.bps`: with **ZA Megas**, Alphapenguin42's fan patch with the Mega Evolutions from Pokémon
-     Legends: Z-A. Resulting ROM: **CRC32 `23801291`**.
-   - `Unbound_ES_v0.999_sinZA.bps`: official Pokémon Unbound, without ZA Megas. Resulting ROM: **CRC32 `FAC36DFE`**.
+     Legends: Z-A. Resulting ROM: **CRC32 `40D5CE1B`**.
+   - `Unbound_ES_v0.999_sinZA.bps`: official Pokémon Unbound, without ZA Megas. Resulting ROM: **CRC32 `0147E404`**.
 
    ZA Megas is not an official update by Skeli. If a new official version comes out, a save with ZA Mega Stones
    might not carry over as is. If you'd rather not risk it, use the patch without ZA.
