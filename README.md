@@ -41,8 +41,8 @@ La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 2. Elige uno de los dos parches de la [última versión](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) y aplícalo directamente
    a esa ROM con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips):
    - `Unbound_ES_v1.04.bps`: con **ZA Megas**, el parche de fans de Alphapenguin42 con las megaevoluciones de
-     Leyendas Pokémon: Z-A. ROM resultante: **CRC32 `ADA3A036`**.
-   - `Unbound_ES_v1.04_sinZA.bps`: Pokémon Unbound oficial, sin ZA Megas. ROM resultante: **CRC32 `CCB63EEA`**.
+     Leyendas Pokémon: Z-A. ROM resultante: **CRC32 `3609D531`**.
+   - `Unbound_ES_v1.04_sinZA.bps`: Pokémon Unbound oficial, sin ZA Megas. ROM resultante: **CRC32 `571C4BED`**.
 
    ZA Megas no es una actualización oficial de Skeli. Si algún día sale una versión oficial nueva, una partida con
    megapiedras de ZA podría no pasar tal cual a ella. Si prefieres no arriesgarte, usa el parche sin ZA.
@@ -148,8 +148,8 @@ The translation is based on **version 2.1.1.1** of the hack.
 2. Pick one of the two patches from the [latest release](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) and apply it directly
    to that ROM with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips):
    - `Unbound_ES_v1.04.bps`: with **ZA Megas**, Alphapenguin42's fan patch with the Mega Evolutions from Pokémon
-     Legends: Z-A. Resulting ROM: **CRC32 `ADA3A036`**.
-   - `Unbound_ES_v1.04_sinZA.bps`: official Pokémon Unbound, without ZA Megas. Resulting ROM: **CRC32 `CCB63EEA`**.
+     Legends: Z-A. Resulting ROM: **CRC32 `3609D531`**.
+   - `Unbound_ES_v1.04_sinZA.bps`: official Pokémon Unbound, without ZA Megas. Resulting ROM: **CRC32 `571C4BED`**.
 
    ZA Megas is not an official update by Skeli. If a new official version comes out, a save with ZA Mega Stones
    might not carry over as is. If you'd rather not risk it, use the patch without ZA.
