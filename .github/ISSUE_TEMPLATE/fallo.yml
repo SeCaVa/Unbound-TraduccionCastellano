@@ -34,7 +34,7 @@ body:
     id: parcheo
     attributes:
       label: ¿Cómo aplicaste el parche?
-      description: "El parche va sobre Pokémon - FireRed Version (USA) 1.0 (CRC32 DD88761C). La ROM resultante de la v1.04 tiene CRC32 64DD82BA (con ZA Megas) o 05C81C66 (sin ZA)."
+      description: "El parche va sobre Pokémon - FireRed Version (USA) 1.0 (CRC32 DD88761C). La ROM resultante de la v1.04 tiene CRC32 ADA3A036 (con ZA Megas) o CCB63EEA (sin ZA)."
       options:
         - "Parcheador web de SeCaVa (secava.github.io/secava-parcheador)"
         - "Rom Patcher JS"
@@ -54,7 +54,7 @@ body:
     attributes:
       label: CRC32 de tu ROM parcheada (si lo sabes)
       description: El parcheador web y Rom Patcher JS lo enseñan. Ayuda a saber si la ROM está bien.
-      placeholder: "64DD82BA"
+      placeholder: "ADA3A036"
   - type: dropdown
     id: emulador
     attributes:
