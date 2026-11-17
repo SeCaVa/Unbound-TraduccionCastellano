@@ -8,7 +8,8 @@ megaevoluciones, formas regionales, misiones secundarias y varios modos de dific
 
 La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 
-> **Versión 1.06.** Dos parches: con **ZA Megas** o sin él (Unbound oficial). Arregla los textos de la tablilla de la Cueva Carámbano («La tablilla que ves aquí…» ya no sale con «is», y la frase del Conversor Braille se ve entera), textos que se cortaban con nombres largos (Restau. Todo, rachas de la Mina, la Torre y el Circo) y premios de misiones que seguían en inglés.
+> **Versión 1.07.** Dos parches: con **ZA Megas** o sin él (Unbound oficial). Arregla 9 misiones del Registro de misiones cuyo «Restantes: N» se cortaba (carteles de consejos, nidos, Vivillon, esmeraldas ardientes…) y el texto de la pantalla de derrota, que perdía la primera línea («X corrió al Centro Pokémon…», «Has perdido contra…»).
+> Desde la 1.06: los textos de la tablilla de la Cueva Carámbano («La tablilla que ves aquí…» ya no sale con «is», y la frase del Conversor Braille se ve entera), textos que se cortaban con nombres largos (Restau. Todo, rachas de la Mina, la Torre y el Circo) y premios de misiones que seguían en inglés.
 > Desde la 1.05: los textos de combate al cambiar de Pokémon («¡Muy bien, X! ¡Ven aquí!», el ánimo con el rival débil y la retirada del segundo entrenador) se ven bien.
 > Desde la 1.03: En el Registro de misiones vuelve a verse «Restantes: N» en las misiones con contador y los consejos ya no se salen de la caja.
 > Desde la 1.02: El Montañero del Gran Desierto vuelve a hablar cuando le hablas otra vez tras darte la megapiedra y el teclado de contraseñas pone «Contraseña» sin cortarse.
@@ -41,9 +42,9 @@ La traducción está hecha sobre la **versión 2.1.1.1** del hack.
      se quedará en blanco o se colgará. Rom Patcher JS enseña el CRC32 de tu ROM antes de parchear.
 2. Elige uno de los dos parches de la [última versión](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) y aplícalo directamente
    a esa ROM con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips):
-   - `Unbound_ES_v1.06.bps`: con **ZA Megas**, el parche de fans de Alphapenguin42 con las megaevoluciones de
-     Leyendas Pokémon: Z-A. ROM resultante: **CRC32 `964EE35F`**.
-   - `Unbound_ES_v1.06_sinZA.bps`: Pokémon Unbound oficial, sin ZA Megas. ROM resultante: **CRC32 `8DC7A05D`**.
+   - `Unbound_ES_v1.07.bps`: con **ZA Megas**, el parche de fans de Alphapenguin42 con las megaevoluciones de
+     Leyendas Pokémon: Z-A. ROM resultante: **CRC32 `19A7E342`**.
+   - `Unbound_ES_v1.07_sinZA.bps`: Pokémon Unbound oficial, sin ZA Megas. ROM resultante: **CRC32 `F398226F`**.
 
    ZA Megas no es una actualización oficial de Skeli. Si algún día sale una versión oficial nueva, una partida con
    megapiedras de ZA podría no pasar tal cual a ella. Si prefieres no arriesgarte, usa el parche sin ZA.
@@ -149,9 +150,9 @@ The translation is based on **version 2.1.1.1** of the hack.
      game will show a white screen or crash. Rom Patcher JS shows your ROM's CRC32 before patching.
 2. Pick one of the two patches from the [latest release](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) and apply it directly
    to that ROM with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips):
-   - `Unbound_ES_v1.06.bps`: with **ZA Megas**, Alphapenguin42's fan patch with the Mega Evolutions from Pokémon
-     Legends: Z-A. Resulting ROM: **CRC32 `964EE35F`**.
-   - `Unbound_ES_v1.06_sinZA.bps`: official Pokémon Unbound, without ZA Megas. Resulting ROM: **CRC32 `8DC7A05D`**.
+   - `Unbound_ES_v1.07.bps`: with **ZA Megas**, Alphapenguin42's fan patch with the Mega Evolutions from Pokémon
+     Legends: Z-A. Resulting ROM: **CRC32 `19A7E342`**.
+   - `Unbound_ES_v1.07_sinZA.bps`: official Pokémon Unbound, without ZA Megas. Resulting ROM: **CRC32 `F398226F`**.
 
    ZA Megas is not an official update by Skeli. If a new official version comes out, a save with ZA Mega Stones
    might not carry over as is. If you'd rather not risk it, use the patch without ZA.
