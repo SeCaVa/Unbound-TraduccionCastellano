@@ -8,7 +8,7 @@ megaevoluciones, formas regionales, misiones secundarias y varios modos de dific
 
 La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 
-> **Versión 1.20.** Dos parches: con **ZA Megas** o sin él (Unbound oficial). Unifica el nombre del movimiento «Colm.Drenaje» (tabla, MT y diálogo de Benjamin), corrige «Imagen» en el diálogo del vendedor de la MT y los nombres Vastaguardia y Fogonazo. Incluye además una segunda lectura de calidad de los textos (reparto de líneas más natural, sin palabras sueltas al final de la caja), vocativos que respetan el género del jugador, menús con las palabras débiles bien cortadas y los créditos y la pantalla FIN revisados.
+> **Versión 1.21.** Dos parches: con **ZA Megas** o sin él (Unbound oficial). Segunda tanda de la revisión de calidad: expresiones calcadas del inglés sustituidas por frases naturales, mayúsculas unificadas en los términos del juego (Gimnasio, Medalla, Líder de Gimnasio, Megapiedra, Baya, Huevo), el Entrenador de la Torre Batalla con un solo nombre (Jericor) y su título «Amo Torre», «Oricorio Plácido», las «estampas» del Frente Batalla, el nombre «Conector inalámbrico de GBA» y la banda «Horizonte Negro» traducida como las demás.
 > Desde la 1.07: arregla 9 misiones del Registro de misiones cuyo «Restantes: N» se cortaba (carteles de consejos, nidos, Vivillon, esmeraldas ardientes…) y el texto de la pantalla de derrota, que perdía la primera línea («X corrió al Centro Pokémon…», «Has perdido contra…»).
 > Desde la 1.06: los textos de la tablilla de la Cueva Carámbano («La tablilla que ves aquí…» ya no sale con «is», y la frase del Conversor Braille se ve entera), textos que se cortaban con nombres largos (Restau. Todo, rachas de la Mina, la Torre y el Circo) y premios de misiones que seguían en inglés.
 > Desde la 1.05: los textos de combate al cambiar de Pokémon («¡Muy bien, X! ¡Ven aquí!», el ánimo con el rival débil y la retirada del segundo entrenador) se ven bien.
@@ -43,9 +43,9 @@ La traducción está hecha sobre la **versión 2.1.1.1** del hack.
      se quedará en blanco o se colgará. Rom Patcher JS enseña el CRC32 de tu ROM antes de parchear.
 2. Elige uno de los dos parches de la [última versión](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) y aplícalo directamente
    a esa ROM con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips):
-   - `Unbound_ES_v1.20.bps`: con **ZA Megas**, el parche de fans de Alphapenguin42 con las megaevoluciones de
-     Leyendas Pokémon: Z-A. ROM resultante: **CRC32 `AFF41013`**.
-   - `Unbound_ES_v1.20_sinZA.bps`: Pokémon Unbound oficial, sin ZA Megas. ROM resultante: **CRC32 `591B07BA`**.
+   - `Unbound_ES_v1.21.bps`: con **ZA Megas**, el parche de fans de Alphapenguin42 con las megaevoluciones de
+     Leyendas Pokémon: Z-A. ROM resultante: **CRC32 `1CF4771A`**.
+   - `Unbound_ES_v1.21_sinZA.bps`: Pokémon Unbound oficial, sin ZA Megas. ROM resultante: **CRC32 `62436C8E`**.
 
    ZA Megas no es una actualización oficial de Skeli. Si algún día sale una versión oficial nueva, una partida con
    megapiedras de ZA podría no pasar tal cual a ella. Si prefieres no arriesgarte, usa el parche sin ZA.
@@ -119,7 +119,7 @@ forms, side quests and several difficulty modes.
 
 The translation is based on **version 2.1.1.1** of the hack.
 
-> **Version 1.20.** Two patches: with **ZA Megas** or without it (official Unbound). Unifies the move name «Colm.Drenaje» (table, TM and Benjamin's dialogue), fixes «Imagen» in the TM seller's dialogue and the names Vastaguardia and Fogonazo. It also includes a second quality read of the texts (more natural line breaks, no stray words at the end of a box), vocatives that respect the player's gender, menus with weak words wrapped properly, and a review of the credits and the END screen.
+> **Version 1.21.** Two patches: with **ZA Megas** or without it (official Unbound). Second round of the quality review: phrases calqued from English replaced with natural Spanish, unified capitalisation of game terms (Gimnasio, Medalla, Líder de Gimnasio, Megapiedra, Baya, Huevo), the Battle Tower trainer with a single name (Jericor) and his title «Amo Torre», «Oricorio Plácido», the Battle Frontier «estampas», the name «Conector inalámbrico de GBA» and the «Horizonte Negro» gang translated like the others.
 > Since 1.07: fixes 9 quest-log entries whose «Restantes: N» was cut off and the defeat screen text that lost its first line.
 > Since 1.06: two patches: with **ZA Megas** or without it (official Unbound). Fixes the Icicle Cave tablet texts (no more English «is», and the Braille Converter line is no longer cut), texts that were cut with long names (Full Restore gift, Battle Mine/Tower/Circus streaks) and quest rewards that were still in English.
 > Since 1.05: the battle texts when switching Pokémon show correctly.
@@ -153,9 +153,9 @@ The translation is based on **version 2.1.1.1** of the hack.
      game will show a white screen or crash. Rom Patcher JS shows your ROM's CRC32 before patching.
 2. Pick one of the two patches from the [latest release](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) and apply it directly
    to that ROM with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips):
-   - `Unbound_ES_v1.20.bps`: with **ZA Megas**, Alphapenguin42's fan patch with the Mega Evolutions from Pokémon
-     Legends: Z-A. Resulting ROM: **CRC32 `AFF41013`**.
-   - `Unbound_ES_v1.20_sinZA.bps`: official Pokémon Unbound, without ZA Megas. Resulting ROM: **CRC32 `591B07BA`**.
+   - `Unbound_ES_v1.21.bps`: with **ZA Megas**, Alphapenguin42's fan patch with the Mega Evolutions from Pokémon
+     Legends: Z-A. Resulting ROM: **CRC32 `1CF4771A`**.
+   - `Unbound_ES_v1.21_sinZA.bps`: official Pokémon Unbound, without ZA Megas. Resulting ROM: **CRC32 `62436C8E`**.
 
    ZA Megas is not an official update by Skeli. If a new official version comes out, a save with ZA Mega Stones
    might not carry over as is. If you'd rather not risk it, use the patch without ZA.
