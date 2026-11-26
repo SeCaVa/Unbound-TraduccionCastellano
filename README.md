@@ -8,7 +8,7 @@ megaevoluciones, formas regionales, misiones secundarias y varios modos de dific
 
 La traducción está hecha sobre la **versión 2.1.1.1** del hack.
 
-> **Versión 1.26.** Dos parches: con **ZA Megas** o sin él (Unbound oficial). Los plurales de los objetos de varias palabras salen bien («3 Poké Balls», «3 Caramelos Raros», «2 Pociones», «6 Elixires Máximos»), el aviso de MT/MO ya no dice «un MT», el Trío del Sol habla en femenino («integrante») y las descripciones de movimiento caben en la ficha y el tutor.
+> **Versión 1.27.** Dos parches: con **ZA Megas** o sin él (Unbound oficial). Las descripciones de MT/MO caben en el Tubo MT-MO, la ídolo habla en femenino («Huevo de la ídolo»), se traducen los últimos textos que seguían en inglés (frases de entrenadores, carteles y mensajes de combate) y se adaptan risas e interjecciones («Uf, uf…», «Jo, jo, jo»).
 > Desde la 1.24: los Pokémon recuperan su artículo en los diálogos (Criador, iniciales de Teselia…) y se recolocan unos 80 textos cortados con palabras sueltas al final de página.
 > Desde la 1.07: arregla 9 misiones del Registro de misiones cuyo «Restantes: N» se cortaba (carteles de consejos, nidos, Vivillon, esmeraldas ardientes…) y el texto de la pantalla de derrota, que perdía la primera línea («X corrió al Centro Pokémon…», «Has perdido contra…»).
 > Desde la 1.06: los textos de la tablilla de la Cueva Carámbano («La tablilla que ves aquí…» ya no sale con «is», y la frase del Conversor Braille se ve entera), textos que se cortaban con nombres largos (Restau. Todo, rachas de la Mina, la Torre y el Circo) y premios de misiones que seguían en inglés.
@@ -44,9 +44,9 @@ La traducción está hecha sobre la **versión 2.1.1.1** del hack.
      se quedará en blanco o se colgará. Rom Patcher JS enseña el CRC32 de tu ROM antes de parchear.
 2. Elige uno de los dos parches de la [última versión](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) y aplícalo directamente
    a esa ROM con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips):
-   - `Unbound_ES_v1.26.bps`: con **ZA Megas**, el parche de fans de Alphapenguin42 con las megaevoluciones de
-     Leyendas Pokémon: Z-A. ROM resultante: **CRC32 `2BEF3653`**.
-   - `Unbound_ES_v1.26_sinZA.bps`: Pokémon Unbound oficial, sin ZA Megas. ROM resultante: **CRC32 `1218B495`**.
+   - `Unbound_ES_v1.27.bps`: con **ZA Megas**, el parche de fans de Alphapenguin42 con las megaevoluciones de
+     Leyendas Pokémon: Z-A. ROM resultante: **CRC32 `9AFB3C52`**.
+   - `Unbound_ES_v1.27_sinZA.bps`: Pokémon Unbound oficial, sin ZA Megas. ROM resultante: **CRC32 `F1E2FE59`**.
 
    ZA Megas no es una actualización oficial de Skeli. Si algún día sale una versión oficial nueva, una partida con
    megapiedras de ZA podría no pasar tal cual a ella. Si prefieres no arriesgarte, usa el parche sin ZA.
@@ -120,7 +120,7 @@ forms, side quests and several difficulty modes.
 
 The translation is based on **version 2.1.1.1** of the hack.
 
-> **Version 1.26.** Two patches: with **ZA Megas** or without it (official Unbound). Plurals of multi-word items are now correct («3 Poké Balls», «3 Caramelos Raros», «2 Pociones», «6 Elixires Máximos»), the TM/HM pickup message no longer says «un MT», the Sun Trio speak in the feminine («integrante») and move descriptions fit the summary and tutor windows.
+> **Version 1.27.** Two patches: with **ZA Megas** or without it (official Unbound). TM/HM descriptions now fit the TM case, the idol character speaks in the feminine («Huevo de la ídolo»), the last texts still in English (trainer lines, signs and battle messages) are translated and laughs/interjections are adapted («Uf, uf…», «Jo, jo, jo»).
 > Since 1.24: Pokémon names get their article back in dialogues (Breeder, Unova starters…) and about 80 cut-off texts with stray words at the end of a page are re-flowed.
 > Since 1.07: fixes 9 quest-log entries whose «Restantes: N» was cut off and the defeat screen text that lost its first line.
 > Since 1.06: two patches: with **ZA Megas** or without it (official Unbound). Fixes the Icicle Cave tablet texts (no more English «is», and the Braille Converter line is no longer cut), texts that were cut with long names (Full Restore gift, Battle Mine/Tower/Circus streaks) and quest rewards that were still in English.
@@ -155,9 +155,9 @@ The translation is based on **version 2.1.1.1** of the hack.
      game will show a white screen or crash. Rom Patcher JS shows your ROM's CRC32 before patching.
 2. Pick one of the two patches from the [latest release](https://github.com/SeCaVa/Unbound-TraduccionCastellano/releases/latest) and apply it directly
    to that ROM with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS (Flips):
-   - `Unbound_ES_v1.26.bps`: with **ZA Megas**, Alphapenguin42's fan patch with the Mega Evolutions from Pokémon
-     Legends: Z-A. Resulting ROM: **CRC32 `2BEF3653`**.
-   - `Unbound_ES_v1.26_sinZA.bps`: official Pokémon Unbound, without ZA Megas. Resulting ROM: **CRC32 `1218B495`**.
+   - `Unbound_ES_v1.27.bps`: with **ZA Megas**, Alphapenguin42's fan patch with the Mega Evolutions from Pokémon
+     Legends: Z-A. Resulting ROM: **CRC32 `9AFB3C52`**.
+   - `Unbound_ES_v1.27_sinZA.bps`: official Pokémon Unbound, without ZA Megas. Resulting ROM: **CRC32 `F1E2FE59`**.
 
    ZA Megas is not an official update by Skeli. If a new official version comes out, a save with ZA Mega Stones
    might not carry over as is. If you'd rather not risk it, use the patch without ZA.
